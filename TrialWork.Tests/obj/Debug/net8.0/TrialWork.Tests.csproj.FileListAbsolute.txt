@@ -113,3 +113,4 @@ D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork.Tests\obj\Debug\n
 D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork.Tests\obj\Debug\net8.0\TrialWork.Tests.pdb
 D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork.Tests\obj\Debug\net8.0\TrialWork.Tests.genruntimeconfig.cache
 D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork.Tests\obj\Debug\net8.0\ref\TrialWork.Tests.dll
+D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork.Tests\obj\Debug\net8.0\TrialWork.Tests.sourcelink.json

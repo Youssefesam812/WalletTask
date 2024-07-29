@@ -38,3 +38,4 @@ D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork\bin\Debug\net8.0\
 D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork\bin\Debug\net8.0\xunit.assert.dll
 D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork\bin\Debug\net8.0\xunit.core.dll
 D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\youssef\TPay intern\Project\Task1\Trial\TrialWork\TrialWork\obj\Debug\net8.0\TrialWork.sourcelink.json
